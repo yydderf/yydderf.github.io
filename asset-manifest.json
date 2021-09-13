@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/dogge/static/css/main.1b36e187.chunk.css",
+    "main.js": "/dogge/static/js/main.d022515a.chunk.js",
+    "main.js.map": "/dogge/static/js/main.d022515a.chunk.js.map",
+    "runtime-main.js": "/dogge/static/js/runtime-main.b06fb17e.js",
+    "runtime-main.js.map": "/dogge/static/js/runtime-main.b06fb17e.js.map",
+    "static/js/2.4ac58f9e.chunk.js": "/dogge/static/js/2.4ac58f9e.chunk.js",
+    "static/js/2.4ac58f9e.chunk.js.map": "/dogge/static/js/2.4ac58f9e.chunk.js.map",
+    "static/js/3.2c3b47de.chunk.js": "/dogge/static/js/3.2c3b47de.chunk.js",
+    "static/js/3.2c3b47de.chunk.js.map": "/dogge/static/js/3.2c3b47de.chunk.js.map",
+    "index.html": "/dogge/index.html",
+    "static/css/main.1b36e187.chunk.css.map": "/dogge/static/css/main.1b36e187.chunk.css.map",
+    "static/js/2.4ac58f9e.chunk.js.LICENSE.txt": "/dogge/static/js/2.4ac58f9e.chunk.js.LICENSE.txt",
+    "static/media/drunk1.b07223ae.png": "/dogge/static/media/drunk1.b07223ae.png",
+    "static/media/drunk2.9ede1ca8.png": "/dogge/static/media/drunk2.9ede1ca8.png",
+    "static/media/key.053cb1dc.png": "/dogge/static/media/key.053cb1dc.png",
+    "static/media/mari2.d020dcfc.png": "/dogge/static/media/mari2.d020dcfc.png",
+    "static/media/radi4.d45be15b.png": "/dogge/static/media/radi4.d45be15b.png",
+    "static/media/sleep2.d1bf495b.png": "/dogge/static/media/sleep2.d1bf495b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b06fb17e.js",
+    "static/js/2.4ac58f9e.chunk.js",
+    "static/css/main.1b36e187.chunk.css",
+    "static/js/main.d022515a.chunk.js"
+  ]
+}
